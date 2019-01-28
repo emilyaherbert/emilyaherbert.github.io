@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emilyaherbert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emilyaherbert.github.io
+  * I am emilyaherbert (https://keybase.io/emilyaherbert) on keybase.
+  * I have a public key ASDa_Byl42W9xPQSd3fWmUt-OIpZspZf1KCQ7W06FnHoiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dafc1ca5e365bdc4f4127777d6994b7e388a59b2965fd4a090ed6d3a1671e8890a",
+      "host": "keybase.io",
+      "kid": "0120dafc1ca5e365bdc4f4127777d6994b7e388a59b2965fd4a090ed6d3a1671e8890a",
+      "uid": "f9366797a2fcd20bc03bf96b8fc8cf19",
+      "username": "emilyaherbert"
+    },
+    "merkle_root": {
+      "ctime": 1548680925,
+      "hash": "e5c3b3d5dbe93bc05d4adb1d19b42d7919b0485a340c52c97d2d40b6cc4ee996e64581b2c6c19fb97ac33799dfd00610cfb43cf6d74ef78de3d87f01598a8a7f",
+      "hash_meta": "c4e8e4bcf8203e39489d4cfeaa36b9730b8a94ce98f86cfa41f07f96b0c3d624",
+      "seqno": 4635541
+    },
+    "service": {
+      "entropy": "afBzXuF3YeVSzjKdK/jlZpM7",
+      "hostname": "emilyaherbert.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1548680941,
+  "expire_in": 504576000,
+  "prev": "7ccc6e95858bca99b0fa374ee925aaad2594696dea74ae370f77f51a6be94900",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2vwcpeNlvcT0End31plLfjiKWbKWX9SgkO1tOhZx6IkKp3BheWxvYWTESpcCEsQgfMxulYWLypmw+jdO6SWqrSWUaW3qdK43D3f1GmvpSQDEIJr2kndX8K8wqvhIbk9w9hafHuQ2Js5jqmp5ofkD9V9OAgHCo3NpZ8RApGkr8PLcB+TCc5xcqlHXVSwb9Mo+FC1BnSNjqEy1nIPgo0wAtOEnoOVU5QCvDvsUcL9hHuYqo/5h6g2aMxAMDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB8lnvEUZlhki4GN6eNx0V2eeuGADaoky8DFcqxIoqRto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emilyaherbert
+
+==================================================================
