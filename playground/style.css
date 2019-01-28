@@ -1,0 +1,21 @@
+body {
+    background: repeating-radial-gradient(circle,red 0,orange,yellow,green,blue,purple 75px);
+    animation: RepeatingRadialRotate 3s infinite;
+    cursor: url(Media/donut.gif), default;
+}
+
+@keyframes RepeatingRadialRotate {
+    0% {background: repeating-radial-gradient(circle,red 0,orange,yellow,green,blue,purple,red 75px);}
+    20% {background: repeating-radial-gradient(circle,purple 0,red,orange,yellow,green,blue,purple 75px);}
+    40% {background: repeating-radial-gradient(circle,blue 0,purple,red,orange,yellow,green,blue 75px);}
+    60% {background: repeating-radial-gradient(circle,green 0,blue,purple,red,orange,yellow,green 75px);}
+    80% {background: repeating-radial-gradient(circle,yellow 0,green,blue,purple,red,orange,yellow 75px);}
+    100% {background: repeating-radial-gradient(circle,orange 0,yellow,green,blue,purple,red,orange 75px);}
+}
+
+#gradient {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
