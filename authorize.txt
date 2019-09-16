@@ -1,2 +1,2 @@
-{ username: "emily",
-password: "herbert }
+{ username: "javascript",
+password: "rust" }
